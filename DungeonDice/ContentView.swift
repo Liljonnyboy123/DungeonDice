@@ -71,4 +71,3 @@ struct ContentView: View {
 #Preview {
     ContentView()
 }
-// feb 9 vid
